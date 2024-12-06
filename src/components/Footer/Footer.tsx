@@ -21,7 +21,9 @@ const Footer = () => {
   ];
 
   return (
-    <footer className="w-full py-8 transition-colors duration-300 bg-blue-500 dark:bg-gray-900">
+    <footer className="w-full py-8 transition-colors duration-300 bg-blue-500 dark:bg-[#121212]
+
+">
       <div className="max-w-6xl mx-auto px-4">
         {/* Social Icons */}
         <div className="flex justify-center space-x-6 mb-8">
